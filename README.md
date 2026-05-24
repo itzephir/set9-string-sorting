@@ -2,6 +2,8 @@
 
 This repository contains standalone CodeForces solutions for adapted string sorting tasks and the benchmark harness for the string sorting empirical study.
 
+Public repository: https://github.com/itzephir/set9-string-sorting
+
 ## Build
 
 ```bash
